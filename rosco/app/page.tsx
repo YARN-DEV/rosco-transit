@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
-      <section className="bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white py-16 md:py-20 pt-28 md:pt-32 min-h-screen flex items-center">
+      <section className="bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white py-16 md:py-20 pt-32 md:pt-36 min-h-screen flex items-center">
         <div className="container mx-auto px-4">
           <div className="grid lg:grid-cols-2 gap-8 md:gap-12 items-center">
             {/* Left side - Main content */}
