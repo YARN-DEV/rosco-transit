@@ -1,7 +1,0 @@
-{
-  "buildCommand": "cd rosco && npm run build",
-  "devCommand": "cd rosco && npm run dev",
-  "installCommand": "cd rosco && npm install",
-  "framework": "nextjs",
-  "outputDirectory": "rosco/.next"
-}
