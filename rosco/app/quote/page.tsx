@@ -7,10 +7,10 @@ export default function QuotePage() {
   return (
     <div className="min-h-screen">
       {/* Quote Form Section */}
-      <section className="py-16 md:py-20 pt-28 md:pt-32 bg-white min-h-screen">
+      <section className="py-16 md:py-20 pt-32 md:pt-36 bg-white min-h-screen">
         <div className="container mx-auto px-4">
           {/* Quote Calculator Hero */}
-          <div className="max-w-4xl mx-auto mb-12">
+          <div className="max-w-4xl mx-auto mb-12 mt-8">
             <div className="relative rounded-xl overflow-hidden shadow-2xl">
               <Image
                 src="/images/calculatorquote.png"

@@ -6,10 +6,10 @@ export default function ContactPage() {
   return (
     <div className="min-h-screen">
       {/* Contact / Support Section */}
-      <section className="py-16 md:py-20 pt-28 md:pt-32 bg-gray-50 min-h-screen">
+      <section className="py-16 md:py-20 pt-32 md:pt-36 bg-gray-50 min-h-screen">
         <div className="container mx-auto px-4">
           {/* Customer Service Hero Image */}
-          <div className="max-w-4xl mx-auto mb-12">
+          <div className="max-w-4xl mx-auto mb-12 mt-8">
             <div className="relative rounded-xl overflow-hidden shadow-lg">
               <img 
                 src="/images/customerservice.png" 
